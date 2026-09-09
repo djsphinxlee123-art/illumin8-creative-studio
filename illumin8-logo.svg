@@ -1,17 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620">
-<rect width="1200" height="620" fill="#050505"/>
-<g fill="#f2f2f2" font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
-<text x="600" y="190" font-size="112" letter-spacing="18">ILLUMIN8</text>
-<text x="600" y="505" font-size="42" letter-spacing="13">CREATIVE STUDIO</text>
-</g>
-<g fill="none" stroke="#eee" stroke-width="6">
-<path d="M115 310 C250 245 350 245 600 310 C850 375 950 375 1085 310 C950 245 850 245 600 310 C350 375 250 375 115 310Z"/>
-<path d="M155 310 C285 270 380 270 600 310 C820 350 915 350 1045 310 C915 270 820 270 600 310 C380 350 285 350 155 310Z" opacity=".55"/>
-</g>
-<g fill="#fff">
-<circle cx="250" cy="290" r="5"/><circle cx="330" cy="342" r="4"/><circle cx="420" cy="285" r="4"/><circle cx="515" cy="345" r="4"/><circle cx="685" cy="275" r="4"/><circle cx="770" cy="345" r="5"/><circle cx="865" cy="285" r="4"/><circle cx="950" cy="338" r="4"/>
-</g>
-<g stroke="#fff" stroke-width="3">
-<path d="M250 260v60M220 290h60"/><path d="M600 270v80M560 310h80"/><path d="M955 260v60M925 290h60"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300"><rect width="600" height="300" fill="#050505"/><text x="300" y="105" fill="#f4f4f4" font-family="Arial,sans-serif" font-size="54" letter-spacing="8" text-anchor="middle">ILLUMIN8</text><g fill="none" stroke="#eee" stroke-width="4"><path d="M65 150 C150 110 205 110 300 150 C395 190 450 190 535 150 C450 110 395 110 300 150 C205 190 150 190 65 150Z"/><path d="M90 150 C170 125 215 125 300 150 C385 175 430 175 510 150 C430 125 385 125 300 150 C215 175 170 175 90 150Z" opacity=".55"/></g><text x="300" y="240" fill="#eee" font-family="Arial,sans-serif" font-size="18" letter-spacing="7" text-anchor="middle">CREATIVE STUDIO</text></svg>
