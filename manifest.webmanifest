@@ -1,0 +1,14 @@
+{
+  "name": "Illumin8 Creative Studio",
+  "short_name": "Illumin8",
+  "description": "Creative campaigns, promotional products and brand solutions by Illumin8 Creative Studio.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"illumin8-logo.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
