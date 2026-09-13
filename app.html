@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#050505">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Illumin8">
+<title>Illumin8 Creative Studio</title>
+<style>html,body{margin:0;width:100%;height:100%;background:#050505;color:#fff;font-family:Arial,sans-serif;display:grid;place-items:center}main{text-align:center;padding:30px}img{width:min(320px,75vw);max-height:180px;object-fit:contain}.eyebrow{margin-top:22px;color:#c9ab70;font-size:11px;letter-spacing:4px;text-transform:uppercase}</style>
+</head><body><main><img src="illumin8-logo.svg" alt="Illumin8 Creative Studio"><div class="eyebrow">Launching Illumin8…</div></main>
+<script>
+if('serviceWorker' in navigator){navigator.serviceWorker.register('./service-worker.js').catch(()=>{});}
+setTimeout(()=>location.replace('./index.html'),350);
+</script>
+</body></html>
