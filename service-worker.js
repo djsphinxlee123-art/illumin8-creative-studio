@@ -1,5 +1,5 @@
-const CACHE = 'illumin8-v1';
-const APP_SHELL = ['./', './index.html', './promo-items.html', './enquiry.html', './thanks.html', './illumin8-logo.svg', './manifest.webmanifest'];
+const CACHE = 'illumin8-v2';
+const APP_SHELL = ['./', './index.html', './promo-items.html', './promo-product-photos.jpg', './enquiry.html', './thanks.html', './illumin8-logo.svg', './manifest.webmanifest'];
 
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(APP_SHELL)));
